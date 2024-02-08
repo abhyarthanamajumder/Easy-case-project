@@ -1,0 +1,106 @@
+@media (min-width:372px) and (max-width:768px) {
+    .carousel-caption h1 {
+        font-size: 15px;
+        padding-top: 27px;
+    }
+    .carousel-caption p {
+        font-size: 11px;
+    }
+    .carousel-indicators {
+     
+        bottom: -11px !important;
+    }
+    .carousel-indicators li {
+        width: 20px !important;
+        height: 5px !important;
+    }
+    .carousel-caption {
+        padding-top: 4px !important;
+    }
+    .btn{
+        font-size: 10px !important;
+        padding: 6px 10px !important;
+    }
+  
+    .middle-head h2{
+        font-size: 23px;
+    }
+    .middle-head p {
+        font-size: 10px;
+    }
+    .sec4-box h3 {
+        font-size: 30px;
+    }
+    .mid-box i {
+        font-size: 25px;
+    }
+    .mid-box h4 a {
+        font-size: 17px !important;
+    }
+    .mid-box p {
+        font-size: 15px;
+    }
+    .sec3-box h5 a {
+        font-size: 20px;
+    }
+    .sec3-box p {
+        font-size: 15px;
+    }
+    #section-5 {
+       
+        padding-top: 78px;
+     
+    }
+    .sec5-box i {
+        font-size: 26px;
+    }
+    .sec5-box h4 a {
+        font-size: 15px;
+    }
+    .sec5-box p {
+        font-size: 13px;
+    }
+    .sec6-head h3{
+        font-size: 25px;
+    }
+    .sec6-head p {
+        font-size: 16px;
+    }
+    .sec7-box {
+        margin-left: 111px;
+        padding-top: 20px;
+    }
+    .sec7-box h3 {
+    font-size: 16px;
+    padding-right: 31px;
+    }
+    .sec7-box p {
+        font-size: 11px;
+    padding-right: 15px;
+
+    }
+    .about-middle-head h3 {
+        font-size: 22px !important;
+    }
+    .about-sec3-text h4 {
+        color: var(--bg-color3);
+        padding-left: 12px;
+    }
+    .about-sec3-box h3 {
+        font-size: 28px;
+    }
+    .about-sec3-text h5 {
+        font-size: 19px;
+        padding-left: 16px;
+    }
+    .about-sec4-box h3 {
+        font-size: 26px;
+    }
+    .about-sec5-head h3 {
+        font-size: 27px !important;
+    }
+    .contact-middle-head h3 {
+        font-size: 30px !important;
+    }
+   
+}
